@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Farzad Nasrollahy
 
 Welcome to my GitHub profile!  
-I'm a software developer with a strong interest in learning, backend engineering, and problem solving. I enjoy writing maintainable code and exploring design principles that scale in real-world systems.
+I'm a .NET developer passionate about backend development and building web applications.
 
 ---
 
@@ -23,6 +23,29 @@ I'm a software developer with a strong interest in learning, backend engineering
 ---
 
 ## 🔍 Featured Projects
+
+### 🎬 [IoMovie](https://github.com/farzadn-dev/IoMovie)
+A movie catalog web application built with ASP.NET Core.
+
+Features:
+- Razor Pages for dynamic and structured UI  
+- Clean layering and modular setup
+
+> 🍿 A solid example of backend-focused development with elegant presentation using Razor Pages.
+
+---
+
+### 🛒 [Store](https://github.com/farzadn-dev/Store)
+An e-commerce backend prototype using ASP.NET Core.
+
+Features:
+- Product, category, and order management  
+- Repository pattern and service abstraction  
+- Designed for scalability and extensibility
+
+> 🧩 A solid foundation for building commerce platforms or learning backend architecture.
+
+---
 
 ### 🧠 [LeetCode Practice](https://github.com/farzadn-dev/LeetCode)
 A collection of algorithm challenges and data structures solutions in C#.  
@@ -48,8 +71,6 @@ Features:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farzadn-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadn-dev&layout=compact&theme=radical" alt="Top Languages"/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=farzadn-dev&theme=radical&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>

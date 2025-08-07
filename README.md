@@ -24,7 +24,7 @@ I'm a .NET developer passionate about backend development and building web appli
 
 ## 🔍 Featured Projects
 
-### 🎬 [IoMovie](https://github.com/farzadn-dev/IoMovie)
+### 🎬 [IoMovie](https://github.com/farzadn-dev/IoMovie)  
 A movie catalog web application built with ASP.NET Core.
 
 Features:
@@ -35,7 +35,7 @@ Features:
 
 ---
 
-### 🛒 [Store](https://github.com/farzadn-dev/Store)
+### 🛒 [Store](https://github.com/farzadn-dev/Store)  
 An e-commerce backend prototype using ASP.NET Core.
 
 Features:
@@ -47,7 +47,19 @@ Features:
 
 ---
 
-### 🧠 [LeetCode Practice](https://github.com/farzadn-dev/LeetCode)
+### 🧾 [Class_API](https://github.com/farzadn-dev/Class_API)  
+A RESTful API for managing university classes and schedules using ASP.NET Core.
+
+Features:
+- CRUD operations for classes, instructors, and time slots  
+- Follows Clean Architecture principles  
+- Swagger integration for easy testing and documentation
+
+> 🎓 Great for learning API design and backend structure in educational systems.
+
+---
+
+### 🧠 [LeetCode Practice](https://github.com/farzadn-dev/LeetCode)  
 A collection of algorithm challenges and data structures solutions in C#.  
 I regularly update this with new problems and explanations for each solution.
 
@@ -55,7 +67,7 @@ I regularly update this with new problems and explanations for each solution.
 
 ---
 
-### 🧼 [Clean Architecture Template](https://github.com/farzadn-dev/CleanArchitecture)
+### 🧼 [Clean Architecture Template](https://github.com/farzadn-dev/CleanArchitecture)  
 A production-ready ASP.NET Core starter project implementing Clean Architecture principles.
 
 Features:

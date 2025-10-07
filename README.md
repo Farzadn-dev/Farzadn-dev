@@ -8,7 +8,7 @@ I'm a .NET developer passionate about backend development and building web appli
 ## 🧰 Tech Stack
 
 - **Languages**: C#, JavaScript  
-- **Frameworks**: ASP.NET Core, WPF, React  
+- **Frameworks**: ASP.NET Core, WPF  
 - **Architectures**: Clean Architecture, Onion Architecture  
 - **Tools**: Git, Docker, Postman, Visual Studio  
 

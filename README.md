@@ -9,7 +9,7 @@ I'm a .NET developer passionate about backend development and building web appli
 
 - **Languages**: C#, JavaScript  
 - **Frameworks**: ASP.NET Core, WPF  
-- **Architectures**: Clean Architecture, Onion Architecture  
+- **Architectures**: Clean Architecture
 - **Tools**: Git, Docker, Postman, Visual Studio  
 
 <p>
